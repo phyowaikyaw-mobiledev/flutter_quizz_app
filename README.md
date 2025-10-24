@@ -34,7 +34,7 @@ Designed with modular code, clear UI, and practical learn-by-doing features — 
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/flutter_quizz.git
+git clone https://github.com/phyowaikyaw-mobiledev/flutter_quizz_app.git
 cd flutter_quizz
 
 2. **Install packages**
