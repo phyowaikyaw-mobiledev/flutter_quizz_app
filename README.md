@@ -55,8 +55,6 @@ flutter run
 
 ---
 
-## 📷 Screenshots
-
 ## 📸 Screenshots
 
 ![Main Quiz Screen](images/quiz1.png)
