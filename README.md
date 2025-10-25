@@ -57,9 +57,9 @@ flutter run
 
 ## 📸 Screenshots
 
-![Main Quiz Screen](images/quiz1.png)
-![Question Example](images/quiz2.png)
-![Quiz Result](images/quiz3.png)
+<img src="images/quiz1.png" width="300"/>
+<img src="images/quiz2.png" width="300"/>
+<img src="images/quiz3.png" width="300"/>
 
 
 ---
