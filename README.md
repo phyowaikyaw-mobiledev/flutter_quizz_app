@@ -57,9 +57,7 @@ flutter run
 
 ## 📸 Screenshots
 
-<img src="images/quiz1.png" width="300"/>
-<img src="images/quiz2.png" width="300"/>
-<img src="images/quiz3.png" width="300"/>
+<img src="images/quiz1.png" width="200"/> <img src="images/quiz2.png" width="200"/> <img src="images/quiz3.png" width="200"/>
 
 
 ---
